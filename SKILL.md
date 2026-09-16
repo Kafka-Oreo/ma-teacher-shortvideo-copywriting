@@ -225,6 +225,8 @@ description: |
 **一手素材（主人提供）**：
 - 马老师（谈笑间228）复盘观察直播逐字稿蒸馏（继承 `ma-teacher-live-copywriting`）
 - 老高与小茉《地球的一生》《三体》《海有多深》口播文稿蒸馏（继承 `laogao-copywriting`）
+- 老高《第七类接触·张祥前事件》（奇闻邪典事件）口播文稿蒸馏（2026-09-17 增补）
+- 老高《奥德赛》名著解读口播文稿蒸馏（2026-09-17 增补）
 
 > 本 Skill 由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) + 双技能融合生成
 > 创建者：花叔（alchaincyf）+ 技能主集
