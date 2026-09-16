@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Skill dev
+*.coze.zip
+__pycache__/
+*.pyc
+
+# secrets
+*.env
+.env
+*.token
+*_token*
+SECRET.md
